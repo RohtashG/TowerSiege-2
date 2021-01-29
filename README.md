@@ -1,2 +1,1 @@
-# TowerSiege-2
-class - 30
+# TowerSiege-1
